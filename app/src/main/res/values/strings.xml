@@ -40,14 +40,14 @@
     <string name="classmanage">Class Management</string>
 
 
-    <!--Roll Call UI Strings-->
+<!--Roll Call UI Strings-->
     <string name="btn_roll_call">Call Roll</string>
     <string name="lbl_rc_teacher">Teacher</string>
     <string name="lbl_rc_class">Class</string>
     <string name="lbl_rc_connected">Connected Students</string>
 
 
-    <!--Student Roll Call UI Strings-->
+<!--Student Roll Call UI Strings-->
     <string name="btn_check_in">Check in</string>
     <string name="lbl_status_checked_in">You have checked-in</string>
     <string name="lbl_status_not_connected">Not connected</string>
